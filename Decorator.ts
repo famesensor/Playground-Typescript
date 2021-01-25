@@ -111,7 +111,7 @@ function Autobind(
 }
 
 class Printer {
-    message = 'Tihs work!';
+    message = 'This work!';
 
     @Autobind
     showMessage() {
